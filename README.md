@@ -17,42 +17,14 @@
 <p>
 
 
-about me:
+- 💬 Pregúntame sobre **HTML, CSS, JavaScript. **
 
-- 🌱 I am currently studying front-end Web development, handling HTML, CSS and basic JS.
-- 👯 I am looking to collaborate in a company dedicated to development, where I can start my experience as a front-end developer.
-- 💬 Ask me about HTML, CSS and JS
-- 📫 You can contact me at *pilarikg@hotmail.com*
+- 📫 Cómo contactarme **pilarikg@gmiaZ**
 
+<h3 align="left">Conéctate conmigo:</h3>
+<p align="left">
 </p>
 
-<div align="left">
-
-<h3>Languages and Tools:</h3>
-
-<div>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png" width:"40" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" width:"40" height="40">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCdeMvgSyWQEfyG2K56YVRnbuWRi0VbJTAPeHsFdnslwWzFKRlJzoD_4jtvh6hyR1_FLs&usqp=CAU" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" height="40">
-
-</div>
-</div>
-
-
-my status:
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=PilarGRZ&theme=windows-dark&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-![PilarGRZ github stats](https://github-readme-stats.vercel.app/api?username=PilarGRZ&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PilarGRZ&layout=compact)](https://github.com/PilarGRZ/github-readme-stats)
-
-
-
-
-
-
-
+<h3 align="left" >Idiomas y Herramientas:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon /master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com /css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt= "css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> < /a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw. githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https:// sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt= "hablar con descaro a"ancho="40" altura="40"/> </a> </p>
 
