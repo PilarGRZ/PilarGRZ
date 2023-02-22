@@ -7,12 +7,6 @@
 
 <h3 align="center">Soy Desarrolladora Frontend </h3>
 
-
-<div id="banner align="center">
-
-<img src="https://c8.alamy.com/compes/2f8g5kd/concepto-de-desarrollo-web-y-codificacion-web-banner-con-espacio-de-copia-sobre-fondo-morado-ilustracion-de-plano-de-un-espacio-de-trabajo-del-programador-2f8g5kd.jpg" width="1200" height="400">
-</div>
-
 <p>
 
 
