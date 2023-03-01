@@ -12,7 +12,7 @@
 
 - 💬 Pregúntame sobre **HTML, CSS, JavaScript. **
 
-- 📫 Cómo contactarme **pilarikg@gmail.com
+- 📫 Cómo contactarme **mariadelpilargr06@gmail.com
 
 </p>
 
