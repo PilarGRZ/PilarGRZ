@@ -10,7 +10,7 @@
 <p>
 
 
-- 💬 Pregúntame sobre **HTML, CSS, JavaScript. **
+- 💬 Pregúntame sobre **HTML, CSS, JavaScript, React **
 
 - 📫 Cómo contactarme **mariadelpilargr06@gmail.com
 
