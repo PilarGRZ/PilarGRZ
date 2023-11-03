@@ -10,7 +10,7 @@
 <p>
 
 
-- 💬 Pregúntame sobre **HTML, CSS, JavaScript, React **
+- 💬 Pregúntame sobre **HTML, CSS, Bootstrap, Tailwind, JavaScript, Vite.js, React **
 
 - 📫 Cómo contactarme **mariadelpilargr06@gmail.com
 
